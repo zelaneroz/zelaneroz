@@ -40,4 +40,7 @@ When I’m not building, I’m probably exploring a new country or island in the
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zelanespanto)  
 - 📁 [Website / GitHub Projects](https://zelaneroz.github.io/)  
 - 📫 Email: zeespanto@gmail.com
-- 
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zelaneroz)](https://git.io/streak-stats)
