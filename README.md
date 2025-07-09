@@ -1,4 +1,4 @@
-# Hi, I'm Zee/Zelan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# <Mabuhay, World!/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ## About Me
 
@@ -42,5 +42,4 @@ When I’m not building, I’m probably exploring a new country or island in the
 - 📫 Email: zeespanto@gmail.com
 
 ---
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zelaneroz)](https://git.io/streak-stats)
