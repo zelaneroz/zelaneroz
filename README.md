@@ -36,7 +36,16 @@ When I’m not building, I’m probably exploring a new country or island in the
 ---
 
 ## 📬 Let’s Connect!
+<a href="(https://www.linkedin.com/in/zelanespanto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:zeespanto@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)</a>
+<a href="https://www.instagram.com/zelaneroz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/zelan.espanto/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/nax7k0s1n07tq0krfibrsi90y?si=3b1c41a4e946456a" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.goodreads.com/user/show/140408746-zelan-eroz-espanto">[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)</a>
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zelanespanto)  
 - 📁 [Website / GitHub Projects](https://zelaneroz.github.io/)  
-- 📫 Email: zeespanto@gmail.com
+
+---
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
