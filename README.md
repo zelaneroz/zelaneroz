@@ -43,7 +43,7 @@ I'm most excited by the intersection of **AI/ML, full-stack development, and dat
 <a href="https://www.goodreads.com/user/show/140408746-zelan-eroz-espanto">[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)</a>
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zelanespanto)  
-- 📁 [Website / GitHub Projects](https://zelaneroz.github.io/)  
+- 📁 [Website / GitHub Projects](zeespanto.com)  
 
 ---
 
