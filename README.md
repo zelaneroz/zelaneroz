@@ -2,12 +2,11 @@
 
 ## About Me
 
-Hi, I'm **Zelan Eroz Espanto**—a Computer Science & Math student at **Case Western Reserve University** and a Point & UWC Scholar.
+Hi, I'm **Zelan Eroz Espanto**—a CS & Math student at **Case Western Reserve University** and a Point Wells Fargo & UWC Davis Scholr Scholar.
 
 I'm most excited by the intersection of **AI/ML, full-stack development, and data science**. I'm currently working on an LSTM-based forecasting model for sea surface temperature anomalies in the Philippine Sea. I'm also working on a few hackathons and competitions!
 
-When I’m not building, I’m probably exploring a new country or island in the Philippines, reading, watching "Desperate Housewives", making friends, dabbling in film, or asking too many questions!
-
+When I’m not building, I’m probably exploring a new country or island in the Philippines, reading, or watching and reviewing a movie. 
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -31,7 +30,7 @@ When I’m not building, I’m probably exploring a new country or island in the
 - 🧠 Currently an Education Innovation Fellowship (Data Analysis Track) at Eskwelabs, a venture-backed online upskilling school based in Southeast Asia that gives access to affordable and high quality data skills education
 - 📚 Currently a Break Through Tech AI Fellow @ Cornell Tech  
 - 🌊 Working on LSTM-based sea surface temperature anomaly forecasting  
-- 🤝 Open to internships, research opportunities, and interesting collaborations!
+- 🤝 Open to internships, research opportunities, and collaborations (projects/hackathons/organization/startups)!
 
 ---
 
