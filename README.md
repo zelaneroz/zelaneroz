@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at **Case Western Reserve University** and a Point Wells Fargo & UWC Davis Scholr Scholar. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
+Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at **Case Western Reserve University** and a Point Wells Fargo & UWC Davis Scholar. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 I'm most excited by the intersection of **AI/ML, full-stack development, and data science**. I'm currently working on an LSTM-based forecasting model for sea surface temperature anomalies in the Philippine Sea. I'm also working on a few hackathons and competitions!
 
