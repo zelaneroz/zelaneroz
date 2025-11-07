@@ -2,19 +2,17 @@
 
 ## About Me
 
-Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at **Case Western Reserve University** and a Point Wells Fargo & UWC Davis Scholar. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
+Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at Case Western Reserve University and a Point Wells Fargo & UWC Davis Scholar. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-I'm most excited by the intersection of **AI/ML, full-stack development, and data science**. I'm currently working on an LSTM-based forecasting model for sea surface temperature anomalies in the Philippine Sea. I'm also working on a few hackathons and competitions!
+I'm most excited by the intersection of **AI/ML and data science**. 
 
 ---
 
 ## 🌏 What I'm Up To
-
-- 🧠 Currently an Education Innovation Fellowship Intern at Eskwelabs, a venture-backed online upskilling school based in Southeast Asia that gives access to affordable and high quality data skills education. My current project is turning an AI prompt chain (that creates assessment questions for students) to an automated workflow that can run end-to-end with a simple user interface. I'm honing skills like product planning, AI engineering, and workflow automation.
+- 👩🏻‍💻 Currently working with KPMG on an AI Use Energy Efficiency Project for the firm.
+- 🔎 Researching on Fairness of AI based Intimate Partner Violence (IPV) Detection.
 - 📚 Selected for the Microsoft Emerging Leaders for College Students Program (ELCSP), Microsoft Security’s signature summer initiative
-- 📚 Currently a Break Through Tech AI Fellow @ Cornell Tech  
-- 🌊 Working on LSTM-based sea surface temperature anomaly forecasting on the side. 
-- 🤝 Open to internships, research opportunities, and collaborations (projects/hackathons/organization/startups)!
+- 🤝 Open to Summer & Fall 2026 internships, research opportunities, and collaborations (projects/hackathons/organization/startups)!
 
 ---
 
