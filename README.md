@@ -2,17 +2,14 @@
 
 ## About Me
 
-Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at Case Western Reserve University and a Point Wells Fargo & UWC Davis Scholar. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.
-
-I'm most excited by the intersection of **AI/ML and data science**. 
+Hi, I'm **Zelan Eroz Espanto**—a second-year CS & Math student at Case Western Reserve University and a Point Wells Fargo & UWC Davis Scholar. I'm passionate about exploring the realms of AI alignment and building robust applications.
 
 ---
 
 ## 🌏 What I'm Up To
-- 👩🏻‍💻 Currently working with KPMG on an AI Use Energy Efficiency Project for the firm.
-- 🔎 Researching on Fairness of AI based Intimate Partner Violence (IPV) Detection.
-- 📚 Selected for the Microsoft Emerging Leaders for College Students Program (ELCSP), Microsoft Security’s signature summer initiative
-- 🤝 Open to Summer & Fall 2026 internships, research opportunities, and collaborations (projects/hackathons/organization/startups)!
+- 👩🏻‍💻 **Summer 2026**: Building AI agents with CWRU’s Institute for Smart, Secure and Connected Systems (ISSACS) to support ORTM in streamlining high-stakes, high-funding NIH research grant budget proposals and reducing administrative bottlenecks.
+- 🔎 Researching sycophancy in multimodal large language reasoning models (MLLRMs).
+- 🤝 Open to Fall 2026 & Summer 2027 internship/co-op in research, industry, or startup environments (AI/ML Engineering, SWE, Analytics).
 
 ---
 
@@ -40,8 +37,7 @@ I'm most excited by the intersection of **AI/ML and data science**.
 <a href="https://open.spotify.com/user/nax7k0s1n07tq0krfibrsi90y?si=3b1c41a4e946456a" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://www.goodreads.com/user/show/140408746-zelan-eroz-espanto">[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)</a>
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zelanespanto)  
-- 📁 [Website / GitHub Projects](zeespanto.com)  
+- 🌐 [Website](zeespanto.com)  
 
 ---
 
