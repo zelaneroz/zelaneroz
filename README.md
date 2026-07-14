@@ -40,14 +40,64 @@
 
 ### [My24](https://github.com/zelaneroz/my24)
 
-My24 is a SwiftUI iOS app built to help users reflect on and organize their daily life through a clean, simple, and personal interface. I built this project for myself because I wanted to become more intentional about how I spend my day-to-day life. It helps me track how my energy and mood shift throughout the day, plan my time around those patterns, and set weekly goals across different areas of life like coding, LeetCode, exercise, and social connection. The project focuses on building a polished mobile experience using Swift, Xcode, custom views, reusable components, and organized app architecture. This is my first iOS project!
+My24 is a SwiftUI iOS app designed to help users become more intentional about how they spend their time. I originally built it for myself to track changes in my energy and mood, plan around those patterns, and set weekly goals across areas such as coding, exercise, LeetCode, and social connection.
+
+This was my first iOS project and gave me hands-on experience building a polished mobile interface with reusable components, custom styling, and organized application architecture.
 
 **Tech Stack:** Swift, SwiftUI, Xcode
 
 **Highlights:**
-- Built with a native SwiftUI interface
-- Designed with a clean and minimal user experience
-- Includes custom app styling, assets, and reusable UI structure
+
+* Built a native iOS interface using SwiftUI
+* Created reusable views and shared styling components
+* Designed a clean and minimal user experience
+* Developed tracking features for mood, energy, time, and weekly goals
+
+---
+
+### [PolitiKo](https://github.com/zelaneroz/PolitiKo) — 🛠️ Under Construction
+
+PolitiKo is an ongoing project focused on making political and civic information more accessible, understandable, and engaging.
+
+More details coming soon.
+
+---
+
+### [C++ Limit Order Book](https://github.com/zelaneroz/cpp-limit-order-book) — 🛠️ Under Construction
+
+A multithreaded limit order book and trade-matching engine built in modern C++ for Linux. The system is designed to support buy and sell orders, price-time priority, partial order fills, and order cancellations.
+
+The project explores high-performance systems concepts, including concurrent programming, efficient data structures, memory management, and low-latency processing.
+
+**Tech Stack:** C++, Linux, CMake, GoogleTest
+
+**Planned Highlights:**
+
+* Implement price-time priority for matching buy and sell orders
+* Support limit orders, partial fills, and cancellations
+* Process orders using multithreading and synchronization
+* Benchmark throughput and latency using Linux `perf`
+* Analyze memory usage and correctness with Valgrind
+* Build custom load-generation and testing tools
+
+---
+
+### KinCare
+
+> Awaiting results from the Kode With Klossy × Apple Mobile App Challenge
+
+KinCare is an iOS app for coordinating care within a trusted circle of family members, friends, and helpers. It replaces scattered text threads and paper notes with a centralized space for organizing responsibilities, inviting support, and staying focused on what matters today.
+
+**Tech Stack:** Swift, SwiftUI, Xcode
+
+**Features:**
+
+* Guided onboarding for new users
+* Role selection for care recipients and helpers
+* Care-circle creation and invitation flows
+* Today view for current priorities and responsibilities
+* Personal “You” area for user-specific context
+* Reusable SwiftUI components and shared theme styling
 
 
 ---
